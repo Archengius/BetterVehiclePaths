@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BetterVehiclePaths",
+	"Description": "A bunch of quality of life changes to making vehicle path setup less annoying.",
+	"Category": "Other",
+	"CreatedBy": "Archengius",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BetterVehiclePaths",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
